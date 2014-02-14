@@ -13,4 +13,6 @@ Tester:Che Cheng
 
 Demo: http://www.youtube.com/watch?v=uMWo3OxUVDc&list=UUjtFVm7nj-rtuUWS4nn3rSQ&feature=c4-overview
 
+All source code and artworks are included. Due to size limitation on github, audios are stripped.
+
 
