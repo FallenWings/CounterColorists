@@ -1,0 +1,181 @@
+##########
+Counter Colorist
+**********
+0-textures/world/tiles/0.bmp
+1-textures/world/tiles/spikes.png
+2-textures/world/tiles/spikes2.png
+3-textures/world/tiles/rock.png
+4-textures/world/tiles/rock2.png
+5-textures/world/tiles/rock3.png
+6-textures/world/tiles/number.png
+7-textures/world/tiles/moon4.bmp
+8-textures/world/sprites/Shiro/Standing/WstandingL1.png
+9-textures/world/sprites/Shiro/Standing/WstandingL2.png
+10-textures/world/sprites/Shiro/Standing/WstandingL3.png
+11-textures/world/sprites/Shiro/Standing/WstandingR1.png
+12-textures/world/sprites/Shiro/Standing/WstandingR2.png
+13-textures/world/sprites/Shiro/Standing/WstandingR3.png
+14-textures/world/sprites/Shiro/Running/WrunningL1.png
+15-textures/world/sprites/Shiro/Running/WrunningL2.png
+16-textures/world/sprites/Shiro/Running/WrunningL3.png
+17-textures/world/sprites/Shiro/Running/WrunningL4.png
+18-textures/world/sprites/Shiro/Running/WrunningR1.png
+19-textures/world/sprites/Shiro/Running/WrunningR2.png
+20-textures/world/sprites/Shiro/Running/WrunningR3.png
+21-textures/world/sprites/Shiro/Running/WrunningR4.png
+22-textures/world/sprites/Shiro/Jumping/WjumpL1.png
+23-textures/world/sprites/Shiro/Jumping/WjumpR1.png
+24-textures/world/sprites/Shiro/Hurting/WhurtingL1.png
+25-textures/world/sprites/Shiro/Hurting/WhurtingR1.png
+26-textures/world/sprites/Shiro/Grabbed/WgrabbedL1.png
+27-textures/world/sprites/Shiro/Grabbed/WgrabbedR1.png
+28-textures/world/sprites/Shiro/Grab Standing/WgrabstandingL1.png
+29-textures/world/sprites/Shiro/Grab Standing/WgrabstandingR1.png
+30-textures/world/sprites/Shiro/Grab Running/WgrabrunningL1.png
+31-textures/world/sprites/Shiro/Grab Running/WgrabrunningR1.png
+32-textures/world/sprites/Shiro/Dying/WdyingL1.png
+33-textures/world/sprites/Shiro/Dying/WdyingL2.png
+34-textures/world/sprites/Shiro/Dying/WdyingR1.png
+35-textures/world/sprites/Shiro/Dying/WdyingR2.png
+36-textures/world/tiles/level1.png
+37-textures/world/sprites/Shiro/Attacking/WAttack1.png
+38-textures/world/sprites/Shiro/Attacking/WAttack2.png
+39-textures/world/sprites/Shiro/Attacking/WAttack3.png
+40-textures/world/sprites/Shiro/Attacking/WAttack4.png
+41-textures/world/sprites/Shiro/Throwing/WthrowstandingL1.png
+42-textures/world/sprites/Shiro/Throwing/WthrowstandingL2.png
+43-textures/world/sprites/Shiro/Throwing/WthrowstandingR1.png
+44-textures/world/sprites/Shiro/Throwing/WthrowstandingR2.png
+45-textures/world/sprites/Kuroiro/Standing/BstandingL1.png
+46-textures/world/sprites/Kuroiro/Standing/BstandingL2.png
+47-textures/world/sprites/Kuroiro/Standing/BstandingL3.png
+48-textures/world/sprites/Kuroiro/Standing/BstandingR1.png
+49-textures/world/sprites/Kuroiro/Standing/BstandingR2.png
+50-textures/world/sprites/Kuroiro/Standing/BstandingR3.png
+51-textures/world/sprites/Kuroiro/Running/BrunningL1.png
+52-textures/world/sprites/Kuroiro/Running/BrunningL2.png
+53-textures/world/sprites/Kuroiro/Running/BrunningL3.png
+54-textures/world/sprites/Kuroiro/Running/BrunningL4.png
+55-textures/world/sprites/Kuroiro/Running/BrunningR1.png
+56-textures/world/sprites/Kuroiro/Running/BrunningR2.png
+57-textures/world/sprites/Kuroiro/Running/BrunningR3.png
+58-textures/world/sprites/Kuroiro/Running/BrunningR4.png
+59-textures/world/sprites/Kuroiro/Jumping/BjumpingL1.png
+60-textures/world/sprites/Kuroiro/Jumping/BjumpingR1.png
+61-textures/world/sprites/Kuroiro/Hurting/BhurtingL1.png
+62-textures/world/sprites/Kuroiro/Hurting/BhurtingR1.png
+63-textures/world/sprites/Kuroiro/Grabbed/BgrabbedL1.png
+64-textures/world/sprites/Kuroiro/Grabbed/BgrabbedR1.png
+65-textures/world/sprites/Kuroiro/Grab Standing/BgrabstandingL1.png
+66-textures/world/sprites/Kuroiro/Grab Standing/BgrabstandingR1.png
+67-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningL1.png
+68-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningR1.png
+69-textures/world/sprites/Kuroiro/Dying/BdyingL1.png
+70-textures/world/sprites/Kuroiro/Dying/BdyingL2.png
+71-textures/world/sprites/Kuroiro/Dying/BdyingR1.png
+72-textures/world/sprites/Kuroiro/Dying/BdyingR2.png
+73-textures/world/sprites/Kuroiro/Attacking/BAttack1.png
+74-textures/world/sprites/Kuroiro/Attacking/BAttack2.png
+75-textures/world/sprites/Kuroiro/Attacking/BAttack3.png
+76-textures/world/sprites/Kuroiro/Attacking/BAttack4.png
+77-textures/world/sprites/Kuroiro/Throwing/BthrowstandingL1.png
+78-textures/world/sprites/Kuroiro/Throwing/BthrowstandingL2.png
+79-textures/world/sprites/Kuroiro/Throwing/BthrowstandingR1.png
+80-textures/world/sprites/Kuroiro/Throwing/BthrowstandingR2.png
+81-textures/world/tiles/lamp1.png
+82-textures/world/tiles/lamp2.png
+83-textures/world/tiles/lamp3.png
+84-textures/world/tiles/wall1.png
+85-textures/world/tiles/wall2.png
+86-textures/world/tiles/level2.png
+87-textures/world/tiles/level3.png
+88-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningL2.png
+89-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningL3.png
+90-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningL4.png
+91-textures/world/sprites/Shiro/Grab Running/WgrabrunningL2.png
+92-textures/world/sprites/Shiro/Grab Running/WgrabrunningL3.png
+93-textures/world/sprites/Shiro/Grab Running/WgrabrunningL4.png
+94-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningR2.png
+95-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningR3.png
+96-textures/world/sprites/Kuroiro/Grab Running/BgrabrunningR4.png
+97-textures/world/sprites/Shiro/Grab Running/WgrabrunningR2.png
+98-textures/world/sprites/Shiro/Grab Running/WgrabrunningR3.png
+99-textures/world/sprites/Shiro/Grab Running/WgrabrunningR4.png
+100-textures/world/sprites/Kuroiro/Grab Standing/BgrabstandingL2.png
+101-textures/world/sprites/Kuroiro/Grab Standing/BgrabstandingR2.png
+102-textures/world/sprites/Shiro/Grab Standing/WgrabstandingL2.png
+103-textures/world/sprites/Shiro/Grab Standing/WgrabstandingR2.png
+104-textures/world/sprites/AI/TypeA/AI_type1_RunningL1.png
+105-textures/world/sprites/AI/TypeA/AI_type1_RunningL2.png
+106-textures/world/sprites/AI/TypeA/AI_type1_RunningL3.png
+107-textures/world/sprites/AI/TypeA/AI_type1_RunningL4.png
+108-textures/world/sprites/AI/TypeA/AI_type1_RunningR1.png
+109-textures/world/sprites/AI/TypeA/AI_type1_RunningR2.png
+110-textures/world/sprites/AI/TypeA/AI_type1_RunningR3.png
+111-textures/world/sprites/AI/TypeA/AI_type1_RunningR4.png
+112-textures/world/sprites/AI/TypeA/AI_type1_DieL1.png
+113-textures/world/sprites/AI/TypeA/AI_type1_DieR1.png
+114-textures/world/Other/Key1.png
+115-textures/world/Other/Key2.png
+116-textures/world/Other/Key3.png
+117-textures/world/Other/Key4.png
+118-textures/world/Other/Door.png
+119-textures/world/Other/DoorC.png
+120-textures/world/sprites/AI/TypeA/AI_type2_RunningL1.png
+121-textures/world/sprites/AI/TypeA/AI_type2_RunningL2.png
+122-textures/world/sprites/AI/TypeA/AI_type2_RunningL3.png
+123-textures/world/sprites/AI/TypeA/AI_type2_RunningL4.png
+124-textures/world/sprites/AI/TypeA/AI_type2_RunningR1.png
+125-textures/world/sprites/AI/TypeA/AI_type2_RunningR2.png
+126-textures/world/sprites/AI/TypeA/AI_type2_RunningR3.png
+127-textures/world/sprites/AI/TypeA/AI_type2_RunningR4.png
+128-textures/world/sprites/AI/TypeA/AI_type2_DieL1.png
+129-textures/world/sprites/AI/TypeA/AI_type2_DieR1.png
+130-textures/world/tiles/wall.png
+131-textures/world/sprites/AI/TypeB/BBossAttack1.png
+132-textures/world/sprites/AI/TypeB/BBossAttack2.png
+133-textures/world/sprites/AI/TypeB/BBossAttack3.png
+134-textures/world/sprites/AI/TypeB/BBossAttack4.png
+135-textures/world/sprites/AI/TypeB/BBossRunL1.png
+136-textures/world/sprites/AI/TypeB/BBossRunL2.png
+137-textures/world/sprites/AI/TypeB/BBossRunR1.png
+138-textures/world/sprites/AI/TypeB/BBossRunR2.png
+139-textures/world/sprites/AI/TypeB/BossDieL1.png
+140-textures/world/sprites/AI/TypeB/BossDieR1.png
+141-textures/world/sprites/AI/TypeB/WBossAttack1.png
+142-textures/world/sprites/AI/TypeB/WBossAttack2.png
+143-textures/world/sprites/AI/TypeB/WBossAttack3.png
+144-textures/world/sprites/AI/TypeB/WBossAttack4.png
+145-textures/world/sprites/AI/TypeB/WBossRunL1.png
+146-textures/world/sprites/AI/TypeB/WBossRunL2.png
+147-textures/world/sprites/AI/TypeB/WBossRunR1.png
+148-textures/world/sprites/AI/TypeB/WBossRunR2.png
+149-textures/world/tiles/star1.png
+150-textures/world/tiles/star2.png
+151-textures/world/tiles/star3.png
+152-textures/world/tiles/star4.png
+153-textures/world/tiles/star5.png
+154-textures/world/tiles/star6.png
+155-textures/world/tiles/star7.png
+156-textures/world/tiles/star8.png
+157-textures/world/tiles/star9.png
+158-textures/world/Other/Platform.png
+159-textures/world/Other/Spotlight_B.png
+160-textures/world/Other/Spotlight_W.png
+161-textures/world/tiles/moon1.png
+162-textures/world/tiles/moon2.png
+163-textures/world/tiles/moon3.png
+164-textures/world/tiles/moon4.png
+165-textures/world/sprites/AI/TypeC/BFinalBoss_Standing1.png
+166-textures/world/sprites/AI/TypeC/BFinalBoss_Standing2.png
+167-textures/world/sprites/AI/TypeC/FinalBoss_Die1.png
+168-textures/world/sprites/AI/TypeC/WFinalBoss_Standing1.png
+169-textures/world/sprites/AI/TypeC/WFinalBoss_Standing2.png
+170-textures/world/Other/fireball1.png
+171-textures/world/Other/fireball2.png
+172-textures/world/Other/fireball3.png
+173-textures/world/Other/fireball4.png
+174-textures/world/tiles/star10.png
+175-textures/world/tiles/star11.png
+176-textures/world/tiles/star12.png
+**********

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WorldScrollingGame", "WorldScrollingGame\WorldScrollingGame.vcxproj", "{E1449943-7CEF-4C52-B099-66AC85B8AFD4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CounterColorist", "CounterColorist\CounterColorist.vdproj", "{DDDB65F9-D450-4836-804B-9191E9793D0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1449943-7CEF-4C52-B099-66AC85B8AFD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1449943-7CEF-4C52-B099-66AC85B8AFD4}.Debug|Win32.Build.0 = Debug|Win32
+		{E1449943-7CEF-4C52-B099-66AC85B8AFD4}.Release|Win32.ActiveCfg = Release|Win32
+		{E1449943-7CEF-4C52-B099-66AC85B8AFD4}.Release|Win32.Build.0 = Release|Win32
+		{DDDB65F9-D450-4836-804B-9191E9793D0D}.Debug|Win32.ActiveCfg = Debug
+		{DDDB65F9-D450-4836-804B-9191E9793D0D}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
